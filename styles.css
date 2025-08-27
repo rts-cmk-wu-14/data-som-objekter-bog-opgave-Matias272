@@ -1,0 +1,10 @@
+#content {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(51, 24, 2);
+}
+.student {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(166, 158, 174);
+}
